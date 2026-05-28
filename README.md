@@ -272,4 +272,4 @@ f3 - S1 - Sd
 
 ---
 
-*Projet réalisé dans le cadre de la formation C++ — La Plateforme 2025*
+*Projet réalisé dans le cadre de la formation C++ — La Plateforme 2026*
