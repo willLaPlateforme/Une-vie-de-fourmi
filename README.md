@@ -266,9 +266,9 @@ f3 - S1 - Sd
 
 | Rôle | Responsabilité |
 |------|---------------|
-| **Ilies chapuis** | Algorithme BFS (`Bfs.cpp`) + architecture |
-| **Melvin Vincent** | Algorithme Dijkstra (`Dijkstra.cpp`) + parser |
-| **Guillaume Ciampa** | Algorithme DFS (`Dfs.cpp`) + présentation |
+| **Ilies chapuis** | Algorithme BFS (`Bfs.cpp`)  |
+| **Melvin Vincent** | Algorithme Dijkstra (`Dijkstra.cpp`)  |
+| **Guillaume Ciampa** | Algorithme DFS (`Dfs.cpp`)  |
 
 ---
 
