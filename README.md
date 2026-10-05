@@ -268,7 +268,7 @@ f3 - S1 - Sd
 |------|---------------|
 | **Ilies chapuis** | Algorithme BFS (`Bfs.cpp`)  |
 | **Melvin Vincent** | Algorithme Dijkstra (`Dijkstra.cpp`)  |
-| **Guillaume Ciampa** | Algorithme DFS (`Dfs.cpp`)  |
+| **Will** | Algorithme DFS (`Dfs.cpp`)  |
 
 ---
 
